@@ -1,0 +1,17 @@
+<table style="width:100%">
+  <tr>
+    <th>Name </th>
+    <th>Occupation</th> 
+    <th>Years of experience</th>
+  </tr>
+  <tr>
+    <td>Bob</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
