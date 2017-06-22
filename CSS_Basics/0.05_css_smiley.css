@@ -1,16 +1,13 @@
 .wrapper{
-	margin: 5px;
+	margin:5px;
 }
 
 .face{
 	width:75px;
 	height:75px;
-	border: solid 2px black;
+	border:solid 2px black;
 	background-color: yellow;
 	border-radius: 50px;
-
-
-
 }
 
 .lefteye{
@@ -21,10 +18,8 @@
 	z-index:1;
 	position: relative;
 	left: 32px;
-	top 26px;
+	top: 26px;
 	background-color: black;
-	
-
 }
 
 .righteye{
@@ -35,15 +30,12 @@
 	z-index:1;
 	position: relative;
 	left: 54px;
-	top 26px;
+	top: 26px;
 	background-color: black;
-	
-
 }
 
 
-.mouth {
-
+.mouth{
 	width: 30px;
 	height: 10px;
 	border: solid 1px black;
