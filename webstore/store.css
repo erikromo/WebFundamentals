@@ -1,19 +1,23 @@
  #pencil{
- 	margin:25px 100px 25px 150px;
+ 	margin:50px 100px 25px 150px;
  }
 
  
 
 #description{
-    font: 'Oswald', sans-serif;;
+    font-family:'Roboto Condensed', sans-serif;
     font-size: 20px;
     line-height: 20px;
     color: #000000;  
-    text-align: center;  // Changed
+	text-align: center;  // Changed
+	margin-top:10px;
     }
 #label{
-    font-family: 'Slabo 36px', serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
   	color: #000000;    
   	text-align: center;
+  	text-decoration: underline;
+  	margin-top:60px
   	// Changed
-    }
+    } 
